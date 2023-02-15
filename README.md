@@ -1,2 +1,2 @@
 # github.io
-My personal website
+Conversational AI & ChatGPT-based natural language generation.
